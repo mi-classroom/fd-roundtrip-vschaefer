@@ -1,0 +1,35 @@
+<!--header.md  -->
+
+# Beiträge
+- Wie plane ich Projekte nachhaltig?
+  - date:  06.02.2024
+  - phase: Projektidee, Projektstart
+  - length: 14 Folien
+- Wie erstelle ich eine Agenda?
+  - date:  19.12.2023
+  - phase: immer
+  - length: 1 Seite
+- Wie priorisiere ich (ein Backlog)?
+  - date:  19.12.2023
+  - phase: Projektstart
+  - length: 1 Seite
+- Wie halte ich einen Pitch?
+  - date:  19.12.2023
+  - phase: Projektidee, Projektstart, Projektabschluss
+  - length: 38:43 min
+- Wie baue ich eine Präsentation auf?
+  - date:  08.12.2023
+  - phase: Projektstart, Projektabschluss
+  - length: 23
+- Wie kommuniziere ich richtig?
+  - date:  01.12.2023
+  - phase: Projektstart, Projektabschluss
+  - length: 1 Seite
+- Wie plane ich meine Zeit richtig?
+  - date:  01.12.2023
+  - phase: Projektstart, Projektdurchführung
+  - length: 4 Folien
+- Wie arbeite ich effizient?
+  - date:  28.11.2023
+  - phase: Projektstart, Projektdurchführung
+  - length: 23:30 min
